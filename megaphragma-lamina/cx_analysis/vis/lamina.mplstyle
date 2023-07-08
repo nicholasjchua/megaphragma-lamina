@@ -1,0 +1,23 @@
+## FONT ##
+font.size: 8.0
+
+## FIGURE ##
+figure.figsize:        3.8, 2.3
+figure.dpi:            400
+#figure.autolayout: True  # for 'fig.tight_layout()'
+
+## AXES ##
+#axes.titlesize:     8.0
+axes.spines.top:    False
+axes.spines.right:  False
+
+## LINES ##
+lines.markeredgewidth: 0
+
+### SAVING FIGURES ###
+savefig.dpi:        figure
+savefig.format:     svg    
+savefig.bbox:       tight
+
+#text.usetex: True
+
